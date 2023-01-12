@@ -1,0 +1,92 @@
+
+
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+body {
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    background: linear-gradient(#EFB0C9, #a2d2ff);
+    color: #ffffff;
+}
+
+h1, h2, h3, h4, p {
+    text-shadow: 0 0 1px black;
+}
+
+#yaexy {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border: 6px solid #a2d2ff;
+}
+
+#bday-age {
+    background: #a2d2ff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 10px 0 10px 0;
+}   
+
+#bday-date {
+    background: #a2d2ff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 0px;
+}
+
+.gift-img {
+    margin:0 auto;
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("http://www.euroresidentes.com/imagenes/home/regalos_chico.png");
+    background-size: cover;
+}
+
+.gift-part {
+    margin-top: 50px;
+}
+
+#primerwregalo:hover {
+    background-image: url("https://media1.giphy.com/media/JcEbzHIM7lJBe/200.webp?cid=ecf05e4773xjgp1sd6mpia01p80enx86posemko0ojgmpq5o&rid=200.webp&ct=g");
+}
+
+#segundowregalo:hover {
+    background-image: url("https://media2.giphy.com/media/xTiTneqqVimALdrOh2/giphy.gif?cid=ecf05e476bjylyh607fbawexfgoddm1uxb4j0u791thtqflc&rid=giphy.gif&ct=g");
+}
+
+#tercerwregalo:hover {
+    background-image: url("https://media2.giphy.com/media/d9WaD2aPfr6b6/200.webp?cid=ecf05e47hkos33co5qsuv8xs7m6ektxq0f2eg5uqlnvf8hrs&rid=200.webp&ct=g");
+}
+
+#puartowregalo:hover {
+    background-image: url("https://media1.giphy.com/media/hW9XoY0kF5EyY/200w.webp?cid=ecf05e47763i19xq8y45kymbkikgul1m8msn0lua4chl4r4e&rid=200w.webp&ct=g");
+}
+
+
+#quintowregalo{
+    height: 200px;
+    margin-bottom: 50px;
+    background-size: cover;
+}
+
+#quintowregalo:hover {
+    
+    background-image: url("https://media1.giphy.com/media/hW9XoY0kF5EyY/200w.webp?cid=ecf05e47763i19xq8y45kymbkikgul1m8msn0lua4chl4r4e&rid=200w.webp&ct=g");
+}
+
+#last-part {
+   width: 400px;
+   font-style: italic;
+   margin: 10px auto 100px auto; 
+}
+
+#lastuwu {
+    color: white;
+}
