@@ -1,0 +1,29 @@
+
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+
+#increment-btn {
+    font-weight: bold;
+    width: 100px;
+    padding: 5px 10px;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+    background-color: blue;
+    border: 0px;
+    border-radius: 5px;
+}
+
+#save-btn {
+    font-weight: bold;
+    width: 100px;
+    padding: 5px 10px;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+    background-color: green;
+    border: 0px;
+    border-radius: 5px;
+}
+
